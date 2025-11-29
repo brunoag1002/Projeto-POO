@@ -1,8 +1,11 @@
 DESENVOLVIMENTO PROJETO DE SOFTWARE
 
 Integrantes do Grupo:
+
 BRUNO AMARAL GONZALEZ - bruno.amaral@unisantos.br 
-EMANUEL RODRIGUES SOARES - emanuel.soares@unisantos.br 
+
+EMANUEL RODRIGUES SOARES - emanuel.soares@unisantos.br
+
 ENZO LIUTKUS GOING - enzogoing@unisantos.br 
 
 
